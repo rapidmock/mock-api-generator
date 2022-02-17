@@ -1,0 +1,12 @@
+{
+    "books": [{
+        "isbn": "9781593279509",
+        "title": "Eloquent JavaScript, Third Edition",
+        "subtitle": "A Modern Introduction to Programming",
+        "author": "Marijn Haverbeke",
+        "published": "2018-12-04T00:00:00.000Z",
+        "publisher": "No Starch Press",
+        "pages": 472,
+        "website": "https://eloquentjavascript.net/"
+    }]
+}
